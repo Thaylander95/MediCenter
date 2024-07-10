@@ -1,2 +1,2 @@
 # MediCenter
-Profeto realizado para exercitar prática.
+Projeto realizado para exercitar prática.
